@@ -31,15 +31,16 @@ $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
 $ocean:   #004288 !default;
 $skylight:   #a0c9f5 !default;
+$ocean1:   #1d6dc2 !default;
 
 $primary:       $ocean !default;
-$secondary:     $gray-500 !default;
+$secondary:     $ocean1 !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
 $light:         $gray-200 !default;
-$dark:          $purple !default;
+$dark:          $ocean !default;
 
 $min-contrast-ratio:   1.8 !default;
 

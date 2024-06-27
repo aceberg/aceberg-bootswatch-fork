@@ -1,7 +1,7 @@
 // United 5.3.3
 // Bootswatch
 
-$theme: "ocean" !default;
+$theme: "united" !default;
 
 //
 // Color system
@@ -12,7 +12,7 @@ $gray-100: #f8f9fa !default;
 $gray-200: #e9ecef !default;
 $gray-300: #dee2e6 !default;
 $gray-400: #ced4da !default;
-$gray-500: #aea79f !default;
+$gray-500: #aaaaaa !default;
 $gray-600: #868e96 !default;
 $gray-700: #495057 !default;
 $gray-800: #333 !default;
@@ -29,25 +29,22 @@ $yellow:  #efb73e !default;
 $green:   #38b44a !default;
 $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
-$ocean:   #004288 !default;
-$skylight:   #a0c9f5 !default;
-$ocean1:   #1d6dc2 !default;
 
-$primary:       $ocean !default;
-$secondary:     $ocean1 !default;
+$primary:       $gray-800 !default;
+$secondary:     $gray-600 !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
 $light:         $gray-200 !default;
-$dark:          $ocean !default;
+$dark:          $gray-700 !default;
 
 $min-contrast-ratio:   1.8 !default;
 
 // Body
 
-$body-bg:                   $skylight !default;
-$body-color:                $gray-800 !default;
+$body-bg:           $gray-400 !default;
+$body-color:        $gray-800 !default;
 
 // Fonts
 
